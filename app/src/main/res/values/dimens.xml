@@ -1,0 +1,36 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+     <dimen name="activity_horizontal_margin">3dp</dimen>
+    <dimen name="activity_ahalf_horizontal_margin">5dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+    <dimen name="menuNavigation1ButtonWidth">68dp</dimen>
+    <dimen name="menuNavigation1ButtonRadius">34dp</dimen>
+    <dimen name="profile26ButtonWidth">48dp</dimen>
+    <dimen name="profile26ButtonRadius">24dp</dimen>
+    <dimen name="walkthrough1_viewpager_margin">-74dp</dimen>
+    <dimen name="walkthrough6_viewpager_margin">-104dp</dimen>
+    <dimen name="walkthrough15_viewpager_margin">-104dp</dimen>
+    <dimen name="activity17_icon_size">28dp</dimen>
+    <dimen name="activity17_splitter_height">18dp</dimen>
+    <dimen name="activity29_buttonwidth">54dp</dimen>
+    <dimen name="activity29_buttonradius">26dp</dimen>
+    <dimen name="gallery10_viewpager_margin">-74dp</dimen>
+    <dimen name="ecommerce13_viewpager_margin">-54dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+
+    <!--genaral spacing-->
+    <dimen name="spacing_xsmall">2dp</dimen>
+    <dimen name="spacing_small">3dp</dimen>
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_xmedium">7dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_smlarge">18dp</dimen>
+    <dimen name="spacing_mlarge">20dp</dimen>
+    <dimen name="spacing_mxlarge">25dp</dimen>
+    <dimen name="spacing_xlarge">35dp</dimen>
+    <dimen name="spacing_xmlarge">40dp</dimen>
+    <dimen name="spacing_xxlarge">50dp</dimen>
+    <dimen name="spacing_xxxlarge">55dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+</resources>
